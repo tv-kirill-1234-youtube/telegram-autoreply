@@ -1,2 +1,2 @@
-# tg-auto-reply
+# Telegram Автотвечик
 Автоотвечик
