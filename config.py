@@ -1,7 +1,7 @@
 Profile={
     "api_id":"[Тут ваш ID]", #ID ПРИЛОЖЕНИЯ
     "api_hash":"[Токен приложения]", #ТОКЕН КЛИЕНТА
-    "version":"NET GRAM", #ВЕРСИЯ ПРИЛОЖЕНИЯ
+    "version":"NET GRAM v4.5", #ВЕРСИЯ ПРИЛОЖЕНИЯ
     "model":"Apple iPhone 14 Pro Max", #МОДЕЛЬ УСТРОЙСТВА
     "lang":"ru", #ЯЗЫК ОБСЛУЖЫВАНИЯ
     "System_version":"IOS 14", #ВЕРСИЯ СИСТЕМЫ
